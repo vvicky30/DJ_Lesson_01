@@ -14,6 +14,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Python virtual environment
+# Python virtual environment (in any under git folder track )
 venv/
 env/
